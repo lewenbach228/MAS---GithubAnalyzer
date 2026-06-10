@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# P8 Specific
+repo_analysis/
+traces.jsonl
+*.out
+*.log
